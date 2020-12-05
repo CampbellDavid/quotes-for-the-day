@@ -1,1 +1,1 @@
-Testing can show the presense of bugs, but not their absence. -- Dijkstra
+A man does not look behind the door unless he has stood there himself. -- Du Bois
