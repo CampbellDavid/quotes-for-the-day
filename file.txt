@@ -1,1 +1,1 @@
-Let the machine do the dirty work. -- "Elements of Programming Style", Kernighan and Ritchie
+What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton on its peak.
