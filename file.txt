@@ -1,1 +1,1 @@
-egrep patterns are full regular expressions; it uses a fast deterministic algorithm that sometimes needs exponential space. -- unix manuals
+What I want to find out is -- do parrots know much about Astro-Turf?
