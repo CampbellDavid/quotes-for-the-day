@@ -1,1 +1,1 @@
-Never keep up with the Joneses. Drag them down to your level. -- Quentin Crisp
+egrep patterns are full regular expressions; it uses a fast deterministic algorithm that sometimes needs exponential space. -- unix manuals
