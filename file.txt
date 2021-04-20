@@ -1,1 +1,1 @@
-Prosperity makes friends, adversity tries them. -- Publilius Syrus
+It is easier to change the specification to fit the program than vice versa.
