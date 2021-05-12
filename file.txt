@@ -1,1 +1,1 @@
-I never cheated an honest man, only rascals. They wanted something for nothing. I gave them nothing for something. -- Joseph "Yellow Kid" Weil
+HOW TO PROVE IT, PART 1 proof by example: The author gives only the case n = 2 and suggests that it contains most of the ideas of the general proof. proof by intimidation: 'Trivial'. proof by vigorous handwaving: Works well in a classroom or seminar setting.
