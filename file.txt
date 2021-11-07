@@ -1,1 +1,1 @@
-In defeat, unbeatable; in victory, unbearable. -- W. Churchill, on General Montgomery
+Don't compare floating point numbers solely for equality.
