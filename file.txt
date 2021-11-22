@@ -1,1 +1,1 @@
-Hoffer's Discovery: The grand act of a dying institution is to issue a newly revised, enlarged edition of the policies and procedures manual.
+Everything should be built top-down, except the first time.
