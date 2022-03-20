@@ -1,1 +1,1 @@
-If you don't do it, you'll never know what would have happened if you had done it.
+The notion of a "record" is an obsolete remnant of the days of the 80-column card. -- Dennis M. Ritchie
