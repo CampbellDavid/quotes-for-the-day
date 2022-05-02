@@ -1,1 +1,1 @@
-When a child is taught ... its programmed with simple instructions -- and at some point, if its mind develops properly, it exceeds the sum of what it was taught, thinks independently. -- Dr. Richard Daystrom, "The Ultimate Computer", stardate 4731.3.
+FORTRAN, "the infantile disorder", by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is too clumsy, too risky, and too expensive to use. -- Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5
